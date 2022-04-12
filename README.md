@@ -29,7 +29,7 @@ im evil im currently learning js and trying to get better with python
 * Nothing right now.
 
 ## Links
-* [Site](COMING SOON)
+* [Site](https://deviouss.cc/)
 * [Federal Discord](https://discord.gg/BCeqXARD62)
 
 ## Disclaimer
